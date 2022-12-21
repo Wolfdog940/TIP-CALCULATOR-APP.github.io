@@ -238,6 +238,7 @@ input{
  .bill,.people{
     width: 100%;
     height: 30px;
+   font-size:small;
  }
 
     
